@@ -16,7 +16,7 @@ const config: HardhatUserConfig = {
       chainId: 1337,
     },
     ropsten: {
-      url: `https://eth-ropsten.alchemyapi.io/v2/${process.env.ALCHEMY_API_KEY}`,
+      url: process.env.ALCHEMY_API_URL,
       accounts: [process.env.ROPSTEN_PRIVATE_KEY || '']
     }
   },

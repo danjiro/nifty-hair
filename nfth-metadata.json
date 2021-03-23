@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Hair style",
+      "value" : "Spiky"
+    }, {
+      "trait_type" : "Fashion rating",
+      "value" : "6"
+    } ],
+    "description" : "Waking up after a recent hair cut",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmZ9Mr8P5AorFnhXwxxHaprf1AUtPooi1BCwjHbwwwTKGf",
+    "name" : "Porcupine"
+}
